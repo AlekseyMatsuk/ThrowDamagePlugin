@@ -61,4 +61,4 @@ custom\_items:
 * [**LabAPI**](https://github.com/Northwood-Studios/LabAPI) (version 1.1.6 or higher)  
 * [**AudioPlayer**](https://github.com/Antoniofo/AudioPlayer) (required to play the 3D sounds)
 
-*Created by [Annorda](https://github.com/YourUsername). If you have any questions or suggestions, join our [Discord](https://discord.gg/Y9hSPXAcdG).*
+*Created by [Annorda](https://github.com/AlekseyMatsuk).*
